@@ -2,7 +2,7 @@ package com.corejava.ch03;
 
 import javax.swing.plaf.synth.SynthTextAreaUI;
 
-public class HelloWorld {
+public class CH03_Main {
     public static void main(String[] args) {
         SquareSequence squares = new SquareSequence();
         double avg = average(squares, 100);
